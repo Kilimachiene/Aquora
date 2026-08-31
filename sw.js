@@ -1,6 +1,6 @@
 /* AQUORA Service Worker – macht die App offline verfuegbar.
    Bei Aenderungen an index.html die Versionsnummer erhoehen. */
-const CACHE = "aquora-v1";
+const CACHE = "aquora-v2";
 const FILES = ["./", "./index.html", "./manifest.webmanifest",
   "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
